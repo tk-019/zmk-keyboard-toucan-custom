@@ -158,21 +158,21 @@
         base {
             display-name = "BASE";
             bindings = <
-&kp LEFT_ALT  &kp Q  &kp W  &kp E  &kp R  &kp T  &kp Y  &kp U  &kp I  &kp O  &kp P  &kp INTERNATIONAL_3  &kp LCTRL  &kp A  &kp S  &kp D  &kp F  &kp G  &kp H  &kp J  &kp K  &kp L  &kp SEMI  &kp SINGLE_QUOTE  &kp ESC  &kp Z  &kp X  &kp C  &kp V  &kp B  &kp N  &kp M  &kp COMMA  &kp DOT  &kp SLASH  &kp ESC  &kp LCTRL  &mt LEFT_COMMAND LANG_HANJA  &kp LSHIFT  &kp SPACE  &lt 1 LANG_HANGEUL  &mo 4
+&kp LEFT_ALT  &kp Q  &kp W  &kp E  &kp R  &kp T  &kp Y  &kp U  &kp I  &kp O  &kp P  &kp INTERNATIONAL_3  &kp LCTRL  &kp A  &kp S  &kp D  &kp F  &kp G  &kp H  &kp J  &kp K  &kp L  &kp SEMI  &kp SINGLE_QUOTE  &kp ESC  &kp Z  &kp X  &kp C  &kp V  &kp B  &kp N  &kp M  &kp COMMA  &kp DOT  &kp FSLH  &kp RIGHT_SHIFT  &kp LCTRL  &mt LEFT_COMMAND LANG_HANJA  &kp LSHIFT  &kp SPACE  &lt 1 LANG_HANGEUL  &mo 4
             >;
         };
 
         nav {
             display-name = "NAV";
             bindings = <
-&trans  &kp N1  &kp N2  &kp N3  &kp N4  &kp N5  &kp N6  &kp N7  &kp N8  &kp N9  &kp N0  &trans  &trans  &kp F1  &kp F2  &kp F3  &kp F4  &kp F5  &kp F6  &kp NUMBER_4  &kp NUMBER_5  &kp NUMBER_6  &trans  &trans  &trans  &kp F7  &kp F8  &kp F9  &kp F10  &kp F11  &kp F12  &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3  &trans  &trans  &trans  &mo 2  &trans  &trans  &trans  &trans
+&trans  &kp N1  &kp N2  &kp N3  &kp N4  &kp N5  &kp N6  &kp N7  &kp N8  &kp N9  &kp N0  &kp LBKT  &trans  &kp F1  &kp F2  &kp F3  &kp F4  &kp F5  &kp F6  &kp NUMBER_4  &kp NUMBER_5  &kp NUMBER_6  &kp RBKT  &kp BSLH  &trans  &kp F7  &kp F8  &kp F9  &kp F10  &kp F11  &kp F12  &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3  &kp UNDER  &kp EQUAL  &trans  &mo 2  &trans  &trans  &trans  &trans
             >;
         };
 
         sym {
             display-name = "SYM";
             bindings = <
-&trans  &kp EXCL  &kp DOUBLE_QUOTES  &kp HASH  &kp DLLR  &kp PRCNT  &kp AMPERSAND  &kp SINGLE_QUOTE  &kp LPAR  &kp RPAR  &kp AT  &kp GRAVE  &trans  &trans  &trans  &trans  &trans  &trans  &kp MINUS  &kp EQUAL  &kp LBKT  &kp RBKT  &kp BSLH  &kp TILDE  &trans  &trans  &trans  &trans  &trans  &trans  &kp UNDER  &kp PLUS  &kp LBRC  &kp RBRC  &kp PIPE  &trans  &trans  &trans  &trans  &trans  &trans  &trans
+&trans  &kp EXCL  &kp DOUBLE_QUOTES  &kp HASH  &kp DLLR  &kp PRCNT  &kp AMPERSAND  &kp SINGLE_QUOTE  &kp LPAR  &kp RPAR  &kp AT  &kp GRAVE  &trans  &trans  &trans  &trans  &trans  &trans  &kp MINUS  &kp EQUAL  &kp LBKT  &kp RBKT  &kp BSLH  &kp TILDE  &trans  &trans  &trans  &trans  &trans  &trans  &kp UNDER  &kp PLUS  &kp LBRC  &kp RBRC  &kp PIPE  &kp RSHFT  &trans  &trans  &trans  &trans  &trans  &trans
             >;
         };
 
