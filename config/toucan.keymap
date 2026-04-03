@@ -131,6 +131,11 @@
             bindings = <&kp ESCAPE>;
             key-positions = <24 25>;
         };
+
+        COMBO_ESC2 {
+            bindings = <&kp TAB>;
+            key-positions = <16 19>;
+        };
     };
 
     behaviors {
