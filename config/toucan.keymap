@@ -138,6 +138,11 @@
             bindings = <&kp TAB>;
             key-positions = <16 19>;
         };
+
+        COMBO_TOG_WIN {
+            bindings = <&tog WIN>;
+            key-positions = <0 11>;
+        };
     };
 
     behaviors {
